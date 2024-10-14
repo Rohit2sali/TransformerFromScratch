@@ -15,6 +15,6 @@ in depth you should debug the code in book.
 - Encoder-decoder architecture
 
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
+git clone https://github.com/Rohit2sali/TransformerFromScratch.git
+cd TransformerFromScratch
+
